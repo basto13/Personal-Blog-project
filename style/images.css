@@ -1,0 +1,9 @@
+img {
+    height: auto;
+    max-width: 30%;
+}
+
+.avatar{
+    height: fit-content;
+    width: fit-content;
+}

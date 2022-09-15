@@ -1,0 +1,27 @@
+.main-page-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.postcard{
+    display: grid;
+    grid-template-columns: minmax(200px, max-content);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-info{
+    display: grid;
+    padding: 1em;
+
+}
+
+.info-list{
+    display: flex;
+    flex-direction: column;
+}
+
+
