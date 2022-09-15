@@ -1,37 +1,37 @@
-h1{
+h1 {
     text-align: center;
     color: blue;
 }
 
-h2{
-    color:blueviolet;
+h2 {
+    color: blueviolet;
 }
 
-h3{
-    color:darkslategray;
+h3 {
+    color: darkslategray;
 }
 
-ul{
+ul {
     list-style-type: square;
 }
 
-p{ 
-    color:darkslateblue;
+p {
+    color: darkslateblue;
 
 }
 
-.bolded{
+.bolded {
     font-weight: bold;
 }
 
-.italic{
+.italic {
     font-style: italic;
 }
 
-.underlined{
-    text-decoration: underline; 
+.underlined {
+    text-decoration: underline;
 }
 
-.source{
+.source {
     text-align: right;
 }
